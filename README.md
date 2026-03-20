@@ -27,4 +27,7 @@ reflect-metadata@0.1.13
 - To run the main.ts file
   `npx ts-node-dev main.ts`
 
+- Need in validation time
+  ` npm install class-transformer`
+
 ### Bonus
